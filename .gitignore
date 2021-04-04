@@ -22,3 +22,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Files to Remove later
+src/redux/shop/shop.data_REMOVE.js
