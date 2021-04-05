@@ -11,7 +11,6 @@ import {
 } from "./collection.styles";
 
 const CollectionPage = ({ collection }) => {
-  console.log("collectionPage: ", collection);
   const { title, items } = collection;
 
   return (
