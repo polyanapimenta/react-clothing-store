@@ -16,16 +16,8 @@
     "heroku-postbuild": "cd client && npm install && npm install --only=dev --no-shrinkwrap && npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/polyanapimenta/react-clothing-store.git"
-  },
   "author": "Polyana Pimenta",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/polyanapimenta/react-clothing-store/issues"
-  },
-  "homepage": "https://github.com/polyanapimenta/react-clothing-store#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
